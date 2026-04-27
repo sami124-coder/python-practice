@@ -6,3 +6,5 @@ def fake_bin(x):
         else:
             result += "1"
     return result
+
+return khaled;
